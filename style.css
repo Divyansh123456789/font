@@ -1,0 +1,13 @@
+.copy-right-footer{
+    text-align: center;
+    text-shadow: 5px 5px 5px Grey;
+    line-height: 2;
+    font-size: 22px;
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+    background-color: white;
+}
+body{
+    background-color: wheat;
+}
